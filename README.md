@@ -16,3 +16,5 @@ Olá, eu sou o **Pedro**!
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OSrB2&theme=onedark&row=1&margin-w=5" alt="OSrB2d" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pr_B2" target="blank"><img src="https://img.shields.io/twitter/follow/pr_B2?logo=twitter&style=for-the-badge" alt="pr_B2" /></a> </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pedro-oliveira-600399226/)](https://www.linkedin.com/in/danilo-sales-5aabbb38/)
