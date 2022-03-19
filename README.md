@@ -13,11 +13,4 @@ Olá, eu sou o **Pedro**!
  <p>
  <img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=OSrB2&show_icons=true&locale=en&layout=compact" alt="OSrB2" /></p>
 
-
-<p align="left" "> 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OSrB2&theme=onedark&row=1&margin-w=10" alt="OSrB2" /></a> </p>
-
-<p align="left"> 
- <a href="https://twitter.com/pr_B2" target="blank"><img src="https://img.shields.io/twitter/follow/pr_B2?logo=twitter&style=for-the-badge" alt="pr_B2" /></a> </p>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pedro-oliveira-600399226/)](https://www.linkedin.com/in/pedro-oliveira-600399226/)
