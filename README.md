@@ -14,3 +14,5 @@ Olá, eu sou o **Pedro**!
 
 
 <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OSrB2&theme=onedark&row=1&margin-w=5" alt="OSrB2d" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/pr_B2" target="blank"><img src="https://img.shields.io/twitter/follow/franciscpd?logo=twitter&style=for-the-badge" alt="pr_B2" /></a> </p>
