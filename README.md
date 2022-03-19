@@ -15,7 +15,7 @@ Olá, eu sou o **Pedro**!
 
 
 <p align="left" style="margin-top:30px;"> 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OSrB2&theme=onedark&row=1&margin-w=5" alt="OSrB2" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OSrB2&theme=onedark&row=1&margin-w=10" alt="OSrB2" /></a> </p>
 
 <p align="left"> 
  <a href="https://twitter.com/pr_B2" target="blank"><img src="https://img.shields.io/twitter/follow/pr_B2?logo=twitter&style=for-the-badge" alt="pr_B2" /></a> </p>
