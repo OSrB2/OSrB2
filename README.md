@@ -17,4 +17,4 @@ Olá, eu sou o **Pedro**!
 
 <p align="left"> <a href="https://twitter.com/pr_B2" target="blank"><img src="https://img.shields.io/twitter/follow/pr_B2?logo=twitter&style=for-the-badge" alt="pr_B2" /></a> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pedro-oliveira-600399226/)](https://www.linkedin.com/in/danilo-sales-5aabbb38/)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pedro-oliveira-600399226/)]https://www.linkedin.com/in/pedro-oliveira-600399226/)
