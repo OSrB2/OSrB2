@@ -10,7 +10,7 @@ Olá, eu sou o **Pedro**!
 
 
  
- <p><img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=OSrB2&show_icons=true&locale=en&layout=compact" alt="franciscpd" /></p>
+ <p><img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=OSrB2&show_icons=true&locale=en&layout=compact" alt="franciscpd" height="36"/></p>
 
 
-<p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OSrB2&theme=onedark&row=1&margin-w=5" alt="OSrB2d" /></a> </p>
+<p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OSrB2&theme=onedark&row=1&margin-w=5" alt="OSrB2d" height="36" /></a> </p>
