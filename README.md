@@ -14,7 +14,7 @@ Olá, eu sou o **Pedro**!
  <img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=OSrB2&show_icons=true&locale=en&layout=compact" alt="OSrB2" /></p>
 
 
-<p align="left" style="margin-top:30px;"> 
+<p align="left" "> 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OSrB2&theme=onedark&row=1&margin-w=10" alt="OSrB2" /></a> </p>
 
 <p align="left"> 
