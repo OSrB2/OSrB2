@@ -8,9 +8,6 @@ Olá, eu sou o **Pedro**!
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="36" height="36" />
 </p>
 
-#### Ferramentas:
-<p align="left">
-  
- </P>
+
  
  <p><img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=OSrB2&show_icons=true&locale=en&layout=compact" alt="franciscpd" /></p>
