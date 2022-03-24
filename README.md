@@ -2,11 +2,11 @@
 
  
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?" width="30"> I'm Pedro! 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?" width="30"> Hi i'm Pedro! 
 
  
 
-:computer: Hi i'm full stack development student
+:computer: I'm full stack development student
 
 :house_with_garden: I’m from São Paulo - Brazil.
 
