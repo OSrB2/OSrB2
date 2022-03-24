@@ -6,7 +6,7 @@
 
  
 
-:computer: I'm full stack development student
+:computer: Hi i'm full stack development student
 
 :house_with_garden: I’m from São Paulo - Brazil.
 
