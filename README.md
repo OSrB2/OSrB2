@@ -1,16 +1,30 @@
-Olá, eu sou o **Pedro**!
-
-
-#### Tecnologias:
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="36" height="36" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="36" height="36" />
-</p>
-
+# Welcome!
 
  
- <p>
- <img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=OSrB2&show_icons=true&locale=en&layout=compact" alt="OSrB2" /></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pedro-oliveira-600399226/)](https://www.linkedin.com/in/pedro-oliveira-600399226/)
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?" width="30"> I'm Pedro! 
+
+ 
+
+:computer: I'm full stack development student
+
+:house_with_garden: I’m from São Paulo - Brazil.
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/OSrB2)](https://github.com/OSrB2)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pedro-oliveira-600399226/)](https://www.linkedin.com/in/pedro-oliveira-600399226/)
+
+## Languages and Tools:
+[![OSrB2 GitHub stats](https://github-readme-stats.vercel.app/api?username=OSrB2&theme=blue-green)](https://github.com/NOMEGIT/github-readme-stats)
+[![OSrB2 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OSrB2&theme=blue-green)](https://github.com/NOMEGIT/github-readme-stats)
+
+<code><img heigth="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img heigth="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> 
+<code><img heigth="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img heigth="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
+<code><img heigth="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code> 
+
+## Social
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/pr_B2)](https://twitter.com/pr_B2)
+[![Reddit_Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/user/OSrB2)](https://www.reddit.com/user/OSrB2)
