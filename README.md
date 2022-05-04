@@ -30,8 +30,8 @@
 
 <div>
    <a href="https://github.com/OSrB2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OSrB2&show_icons=true&theme=github_dark"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSrB2&theme=github_dark&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OSrB2&show_icons=true&theme=github_dark"/> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSrB2&theme=github_dark&layout=compact"/>
 </div>
 
 ## Social
