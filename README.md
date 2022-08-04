@@ -23,7 +23,6 @@
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt"Pedro-CSS3" heigth="30" width"40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt"Pedro-JS" heigth="30" width"40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    <a href="https://nodejs.org/en/"><img align="center" alt"Pedro-NODEJS" heigth="30" width"40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-   <a href="https://www.python.org/"><img align="center" alt"Pedro-PY" heigth="30" width"40" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
  </div>
 
  ##
