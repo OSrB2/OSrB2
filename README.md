@@ -1,4 +1,4 @@
-# Welcome!
+# Bem-vindo!
 
  
 
@@ -6,22 +6,23 @@
 
  
 
-:computer: I'm full stack development student
+:computer: Desenvolvedor back-end júnior
 
-:house_with_garden: I’m from São Paulo - Brazil.
+:house_with_garden: São Paulo - Brasil.
 
-## About me
+## Sobre mim
 <div style="displey: inline_block"><br>
     <a href="https://github.com/OSrB2"><img align="center" alt"Pedro-GitHub" heigth="30" width"40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/OSrB2">
     <a href="https://stackoverflow.com/users/18421987/pedro-oliveira"><img align="center" alt"Pedro-StackOver" heigth="30" width"40" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&links=https://stackoverflow.com/users/18421987/pedro-oliveira">
      <a href="https://www.linkedin.com/in/pedro-oliveira-600399226/"><img align="center" alt"Pedro-Linkedin" heigth="30" width"40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pedro-oliveira-600399226/">
 </div>
 
-## Languages and Tools:
+## Linguagens e ferramentas:
 <div style="displey: inline_block"><br>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt"Pedro-HTML" heigth="30" width"40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt"Pedro-CSS3" heigth="30" width"40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt"Pedro-JS" heigth="30" width"40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <a href="https://www.typescriptlang.org/"><img align="center" alt"Pedro-JS" heigth="30" width"40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <a href="https://nodejs.org/en/"><img align="center" alt"Pedro-NODEJS" heigth="30" width"40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
  </div>
 
