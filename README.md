@@ -6,7 +6,7 @@
 
  
 
-:computer: Desenvolvedor back-end júnior
+:computer: Desenvolvedor fullstack júnior
 
 :house_with_garden: São Paulo - Brasil.
 
