@@ -12,7 +12,6 @@
 
 ## Sobre mim
 <div style="displey: inline_block"><br>
-    <a href="https://github.com/OSrB2"><img align="center" alt"Pedro-GitHub" heigth="30" width"40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/OSrB2">
     <a href="https://stackoverflow.com/users/18421987/pedro-oliveira"><img align="center" alt"Pedro-StackOver" heigth="30" width"40" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&links=https://stackoverflow.com/users/18421987/pedro-oliveira">
      <a href="https://www.linkedin.com/in/pedro-oliveira-600399226/"><img align="center" alt"Pedro-Linkedin" heigth="30" width"40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pedro-oliveira-600399226/">
 </div>
