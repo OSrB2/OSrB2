@@ -18,7 +18,7 @@
 
 ## Linguagens e ferramentas:
 <div style="displey: inline_block"><br>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt"Pedro-HTML" heigth="30" width"40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" alt"Pedro-HTML" heigth="30" width"40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt"Pedro-CSS3" heigth="30" width"40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt"Pedro-JS" heigth="30" width"40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    <a href="https://www.typescriptlang.org/"><img align="center" alt"Pedro-JS" heigth="30" width"40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
