@@ -23,6 +23,8 @@
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt"Pedro-JS" heigth="30" width"40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <a href="https://www.typescriptlang.org/"><img align="center" alt"Pedro-JS" heigth="30" width"40" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <a href="https://nodejs.org/en/"><img align="center" alt"Pedro-NODEJS" heigth="30" width"40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <a href="https://www.java.com/pt-BR/"><img align="center" lt"Pedro-JAVA" heigth="30" width"40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+     <a href="https://spring.io/projects/spring-boot"><img align="center" lt"Pedro-SPRING" heigth="30" width"40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <a href="https://www.mysql.com/"><img align="center" alt"Pedro-MYSQL" heigth="30" width"40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <a href="https://www.mongodb.com/pt-br"><img align="center" alt"Pedro-MYSQL" heigth="30" width"40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
  </div>
