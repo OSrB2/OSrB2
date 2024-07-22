@@ -30,6 +30,7 @@
    <a href="https://www.mysql.com/"><img align="center" alt"Pedro-MYSQL" heigth="30" width"40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
    <a href="https://www.postgresql.org/"><img align="center" alt"Pedro-POSTGRESQL" heigth="30" width"40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
    <a href="https://www.mongodb.com/pt-br"><img align="center" alt"Pedro-MYSQL" heigth="30" width"40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+   <a href="https://www.docker.com/"><img align="center" alt"Pedro-DOCKER" heigth="30" width"40" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
  </div>
 
  ##
